@@ -4130,13 +4130,13 @@ with influenza (J09-J11)</description>
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="&ontology;PMR.owl#is_composed_of"/>
-                <owl:someValuesFrom rdf:resource="&ontology;PMR.owl#Home"/>
+                <owl:someValuesFrom rdf:resource="&ontology;PMR.owl#Street"/>
             </owl:Restriction>
         </rdfs:subClassOf>
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="&ontology;PMR.owl#is_composed_of"/>
-                <owl:someValuesFrom rdf:resource="&ontology;PMR.owl#Street"/>
+                <owl:someValuesFrom rdf:resource="&ontology;PMR.owl#Home"/>
             </owl:Restriction>
         </rdfs:subClassOf>
         <rdfs:subClassOf>
@@ -4397,6 +4397,9 @@ with influenza (J09-J11)</description>
 
     <owl:Class rdf:about="&ontology;PMR.owl#Conversation">
         <rdfs:subClassOf rdf:resource="&ontology;PMR.owl#Conversation_and_use_of_communication_devices_and_techniques"/>
+        <code>d350</code>
+        <description></description>
+        <name>Conversation</name>
     </owl:Class>
     
 
@@ -9713,6 +9716,12 @@ head injury NOS (S09.9)</description>
         <rdfs:subClassOf rdf:resource="&ontology;PMR.owl#Assisting"/>
         <rdfs:subClassOf>
             <owl:Restriction>
+                <owl:onProperty rdf:resource="&ontology;PMR.owl#is_related_to"/>
+                <owl:someValuesFrom rdf:resource="&ontology;PMR.owl#Undertaking_a_single_task_independently"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
                 <owl:onProperty rdf:resource="&ontology;PMR.owl#has_event"/>
                 <owl:someValuesFrom>
                     <owl:Class>
@@ -9724,12 +9733,6 @@ head injury NOS (S09.9)</description>
                         </owl:unionOf>
                     </owl:Class>
                 </owl:someValuesFrom>
-            </owl:Restriction>
-        </rdfs:subClassOf>
-        <rdfs:subClassOf>
-            <owl:Restriction>
-                <owl:onProperty rdf:resource="&ontology;PMR.owl#is_related_to"/>
-                <owl:someValuesFrom rdf:resource="&ontology;PMR.owl#Undertaking_a_single_task_independently"/>
             </owl:Restriction>
         </rdfs:subClassOf>
         <type>SNOMED CT</type>
@@ -10592,14 +10595,14 @@ head injury NOS (S09.9)</description>
         <rdfs:subClassOf rdf:resource="&ontology;PMR.owl#Extensiveness"/>
         <rdfs:subClassOf>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="&ontology;PMR.owl#has_event"/>
-                <owl:someValuesFrom rdf:resource="&ontology;PMR.owl#Range_of_joint_movement"/>
+                <owl:onProperty rdf:resource="&ontology;PMR.owl#is_related_to"/>
+                <owl:someValuesFrom rdf:resource="&ontology;PMR.owl#Mobility_of_joint_functions"/>
             </owl:Restriction>
         </rdfs:subClassOf>
         <rdfs:subClassOf>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="&ontology;PMR.owl#is_related_to"/>
-                <owl:someValuesFrom rdf:resource="&ontology;PMR.owl#Mobility_of_joint_functions"/>
+                <owl:onProperty rdf:resource="&ontology;PMR.owl#has_event"/>
+                <owl:someValuesFrom rdf:resource="&ontology;PMR.owl#Range_of_joint_movement"/>
             </owl:Restriction>
         </rdfs:subClassOf>
         <code>255605001</code>
@@ -10904,6 +10907,9 @@ head injury NOS (S09.9)</description>
 
     <owl:Class rdf:about="&ontology;PMR.owl#Moving_around">
         <rdfs:subClassOf rdf:resource="&ontology;PMR.owl#Walking_and_moving"/>
+        <description></description>
+        <code>d455</code>
+        <name>Moving around</name>
     </owl:Class>
     
 
@@ -11287,14 +11293,14 @@ head injury NOS (S09.9)</description>
         <rdfs:subClassOf rdf:resource="&ontology;PMR.owl#Neurological_finding"/>
         <rdfs:subClassOf>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="&ontology;PMR.owl#has_event"/>
-                <owl:someValuesFrom rdf:resource="&ontology;PMR.owl#Mean"/>
+                <owl:onProperty rdf:resource="&ontology;PMR.owl#is_related_to"/>
+                <owl:someValuesFrom rdf:resource="&ontology;PMR.owl#Time_related_changes"/>
             </owl:Restriction>
         </rdfs:subClassOf>
         <rdfs:subClassOf>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="&ontology;PMR.owl#is_related_to"/>
-                <owl:someValuesFrom rdf:resource="&ontology;PMR.owl#Time_related_changes"/>
+                <owl:onProperty rdf:resource="&ontology;PMR.owl#has_event"/>
+                <owl:someValuesFrom rdf:resource="&ontology;PMR.owl#Mean"/>
             </owl:Restriction>
         </rdfs:subClassOf>
         <name>Tiempo de reacción</name>
@@ -12951,6 +12957,9 @@ Spasm of artery</description>
 
     <owl:Class rdf:about="&ontology;PMR.owl#Products_and_technology_for_personal_use_in_daily_living">
         <rdfs:subClassOf rdf:resource="&ontology;PMR.owl#Products_and_technology"/>
+        <description></description>
+        <code>e115</code>
+        <name>Products and technology for personal use in daily living</name>
     </owl:Class>
     
 
@@ -13028,6 +13037,9 @@ Spasm of artery</description>
 
     <owl:Class rdf:about="&ontology;PMR.owl#Protective_functions_of_the_skin">
         <rdfs:subClassOf rdf:resource="&ontology;PMR.owl#Functions_of_the_skin"/>
+        <name>Protective functions of the skin</name>
+        <description></description>
+        <code>b810</code>
     </owl:Class>
     
 
@@ -13683,6 +13695,9 @@ Spasm of artery</description>
 
     <owl:Class rdf:about="&ontology;PMR.owl#Recreation_and_leisure">
         <rdfs:subClassOf rdf:resource="&ontology;PMR.owl#Community,_social_and_civic_life"/>
+        <description></description>
+        <code>d920</code>
+        <name>Recreation and leisure</name>
     </owl:Class>
     
 
@@ -14789,6 +14804,20 @@ Excl.:when specified as nonrheumatic (I34.-)</description>
         </rdfs:subClassOf>
         <rdfs:subClassOf>
             <owl:Restriction>
+                <owl:onProperty rdf:resource="&ontology;PMR.owl#has_event"/>
+                <owl:someValuesFrom>
+                    <owl:Class>
+                        <owl:unionOf rdf:parseType="Collection">
+                            <rdf:Description rdf:about="&ontology;PMR.owl#Cognitive_therapy"/>
+                            <rdf:Description rdf:about="&ontology;PMR.owl#Functional_rehabilitation"/>
+                            <rdf:Description rdf:about="&ontology;PMR.owl#Generalized"/>
+                        </owl:unionOf>
+                    </owl:Class>
+                </owl:someValuesFrom>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
                 <owl:onProperty rdf:resource="&ontology;PMR.owl#has_location"/>
                 <owl:someValuesFrom>
                     <owl:Class>
@@ -14797,20 +14826,6 @@ Excl.:when specified as nonrheumatic (I34.-)</description>
                             <rdf:Description rdf:about="&ontology;PMR.owl#Generalized"/>
                             <rdf:Description rdf:about="&ontology;PMR.owl#Home"/>
                             <rdf:Description rdf:about="&ontology;PMR.owl#Street"/>
-                        </owl:unionOf>
-                    </owl:Class>
-                </owl:someValuesFrom>
-            </owl:Restriction>
-        </rdfs:subClassOf>
-        <rdfs:subClassOf>
-            <owl:Restriction>
-                <owl:onProperty rdf:resource="&ontology;PMR.owl#has_event"/>
-                <owl:someValuesFrom>
-                    <owl:Class>
-                        <owl:unionOf rdf:parseType="Collection">
-                            <rdf:Description rdf:about="&ontology;PMR.owl#Cognitive_therapy"/>
-                            <rdf:Description rdf:about="&ontology;PMR.owl#Functional_rehabilitation"/>
-                            <rdf:Description rdf:about="&ontology;PMR.owl#Generalized"/>
                         </owl:unionOf>
                     </owl:Class>
                 </owl:someValuesFrom>
@@ -16408,6 +16423,9 @@ sequelae of stroke (I69.4)</description>
 
     <owl:Class rdf:about="&ontology;PMR.owl#Toileting">
         <rdfs:subClassOf rdf:resource="&ontology;PMR.owl#Self-care"/>
+        <name>Toileting</name>
+        <code>d530</code>
+        <description></description>
     </owl:Class>
     
 
@@ -16497,6 +16515,9 @@ sequelae of stroke (I69.4)</description>
 
     <owl:Class rdf:about="&ontology;PMR.owl#Transferring_oneself">
         <rdfs:subClassOf rdf:resource="&ontology;PMR.owl#Changing_and_maintaining_body_position"/>
+        <code>d420</code>
+        <name>Transferring oneself</name>
+        <description></description>
     </owl:Class>
     
 
@@ -17874,7 +17895,11 @@ sequelae of stroke (I69.4)</description>
 
     <!-- http://purl.bioontology.org/ontology/PMR.owl#Acquiring,_keeping_and_terminating_a_job -->
 
-    <owl:NamedIndividual rdf:about="&ontology;PMR.owl#Acquiring,_keeping_and_terminating_a_job"/>
+    <owl:NamedIndividual rdf:about="&ontology;PMR.owl#Acquiring,_keeping_and_terminating_a_job">
+        <description></description>
+        <code>d845</code>
+        <name>Acquiring, keeping and terminating a job</name>
+    </owl:NamedIndividual>
     
 
 
@@ -19056,6 +19081,16 @@ Enfriamiento</fase>
     
 
 
+    <!-- http://purl.bioontology.org/ontology/PMR.owl#Caring_for_body_parts -->
+
+    <owl:NamedIndividual rdf:about="&ontology;PMR.owl#Caring_for_body_parts">
+        <code>d520</code>
+        <name>Caring for body parts</name>
+        <description></description>
+    </owl:NamedIndividual>
+    
+
+
     <!-- http://purl.bioontology.org/ontology/PMR.owl#Carrying_out_a_daily_routine -->
 
     <owl:NamedIndividual rdf:about="&ontology;PMR.owl#Carrying_out_a_daily_routine"/>
@@ -19248,7 +19283,11 @@ Enfriamiento</fase>
 
     <!-- http://purl.bioontology.org/ontology/PMR.owl#Changing_basic_body_position -->
 
-    <owl:NamedIndividual rdf:about="&ontology;PMR.owl#Changing_basic_body_position"/>
+    <owl:NamedIndividual rdf:about="&ontology;PMR.owl#Changing_basic_body_position">
+        <description></description>
+        <name>Changing basic body position</name>
+        <code>d410</code>
+    </owl:NamedIndividual>
     
 
 
@@ -19517,7 +19556,12 @@ Enfriamiento</fase>
 
     <!-- http://purl.bioontology.org/ontology/PMR.owl#Complex_interpersonal_interactions -->
 
-    <owl:NamedIndividual rdf:about="&ontology;PMR.owl#Complex_interpersonal_interactions"/>
+    <owl:NamedIndividual rdf:about="&ontology;PMR.owl#Complex_interpersonal_interactions">
+        <description></description>
+        <name>Complex interpersonal interactions
+</name>
+        <code>d720</code>
+    </owl:NamedIndividual>
     
 
 
@@ -19747,7 +19791,11 @@ Enfriamiento</fase>
 
     <!-- http://purl.bioontology.org/ontology/PMR.owl#Control_of_voluntary_movement_functions -->
 
-    <owl:NamedIndividual rdf:about="&ontology;PMR.owl#Control_of_voluntary_movement_functions"/>
+    <owl:NamedIndividual rdf:about="&ontology;PMR.owl#Control_of_voluntary_movement_functions">
+        <name>Control of voluntary movement functions</name>
+        <description></description>
+        <code>b760</code>
+    </owl:NamedIndividual>
     
 
 
@@ -20053,7 +20101,11 @@ Enfriamiento</fase>
 
     <!-- http://purl.bioontology.org/ontology/PMR.owl#Defecation_functions -->
 
-    <owl:NamedIndividual rdf:about="&ontology;PMR.owl#Defecation_functions"/>
+    <owl:NamedIndividual rdf:about="&ontology;PMR.owl#Defecation_functions">
+        <code>d525</code>
+        <name>Defecation functions</name>
+        <description></description>
+    </owl:NamedIndividual>
     
 
 
@@ -20085,6 +20137,16 @@ Enfriamiento</fase>
 
     <owl:NamedIndividual rdf:about="&ontology;PMR.owl#Depth_of_respiration">
         <rdf:type rdf:resource="&ontology;PMR.owl#Depth_of_respiration"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.bioontology.org/ontology/PMR.owl#Design,_construction_and_building_products_and_technology_of_buildings_for_private_use -->
+
+    <owl:NamedIndividual rdf:about="&ontology;PMR.owl#Design,_construction_and_building_products_and_technology_of_buildings_for_private_use">
+        <code>e155</code>
+        <name>Design, construction and building products and technology of buildings for private use</name>
+        <description></description>
     </owl:NamedIndividual>
     
 
@@ -20679,7 +20741,11 @@ Enfriamiento</fase>
 
     <!-- http://purl.bioontology.org/ontology/PMR.owl#Energy_and_drive_functions -->
 
-    <owl:NamedIndividual rdf:about="&ontology;PMR.owl#Energy_and_drive_functions"/>
+    <owl:NamedIndividual rdf:about="&ontology;PMR.owl#Energy_and_drive_functions">
+        <name>Energy and drive functions</name>
+        <code>b130</code>
+        <description></description>
+    </owl:NamedIndividual>
     
 
 
@@ -21063,7 +21129,11 @@ Enfriamiento</fase>
 
     <!-- http://purl.bioontology.org/ontology/PMR.owl#Family_relationships -->
 
-    <owl:NamedIndividual rdf:about="&ontology;PMR.owl#Family_relationships"/>
+    <owl:NamedIndividual rdf:about="&ontology;PMR.owl#Family_relationships">
+        <name>Family relationships</name>
+        <code>d760</code>
+        <description></description>
+    </owl:NamedIndividual>
     
 
 
@@ -21267,7 +21337,11 @@ Enfriamiento</fase>
 
     <!-- http://purl.bioontology.org/ontology/PMR.owl#Friends -->
 
-    <owl:NamedIndividual rdf:about="&ontology;PMR.owl#Friends"/>
+    <owl:NamedIndividual rdf:about="&ontology;PMR.owl#Friends">
+        <description></description>
+        <code>e320</code>
+        <name>Friends</name>
+    </owl:NamedIndividual>
     
 
 
@@ -21538,7 +21612,11 @@ Enfriamiento</fase>
 
     <!-- http://purl.bioontology.org/ontology/PMR.owl#Hand_and_arm_use -->
 
-    <owl:NamedIndividual rdf:about="&ontology;PMR.owl#Hand_and_arm_use"/>
+    <owl:NamedIndividual rdf:about="&ontology;PMR.owl#Hand_and_arm_use">
+        <code>d445</code>
+        <name>Hand and arm use</name>
+        <description></description>
+    </owl:NamedIndividual>
     
 
 
@@ -21552,7 +21630,11 @@ Enfriamiento</fase>
 
     <!-- http://purl.bioontology.org/ontology/PMR.owl#Handling_stress_and_other_psychological_demands -->
 
-    <owl:NamedIndividual rdf:about="&ontology;PMR.owl#Handling_stress_and_other_psychological_demands"/>
+    <owl:NamedIndividual rdf:about="&ontology;PMR.owl#Handling_stress_and_other_psychological_demands">
+        <name>Handling stress and other psychological demands</name>
+        <code>d240</code>
+        <description></description>
+    </owl:NamedIndividual>
     
 
 
@@ -21605,9 +21687,19 @@ Enfriamiento</fase>
     
 
 
+    <!-- http://purl.bioontology.org/ontology/PMR.owl#Health_professionals -->
+
+    <owl:NamedIndividual rdf:about="&ontology;PMR.owl#Health_professionals"/>
+    
+
+
     <!-- http://purl.bioontology.org/ontology/PMR.owl#Health_services,_systems_and_policies -->
 
-    <owl:NamedIndividual rdf:about="&ontology;PMR.owl#Health_services,_systems_and_policies"/>
+    <owl:NamedIndividual rdf:about="&ontology;PMR.owl#Health_services,_systems_and_policies">
+        <name>Health services, systems and policies</name>
+        <code>e580</code>
+        <description></description>
+    </owl:NamedIndividual>
     
 
 
@@ -21893,7 +21985,11 @@ Enfriamiento</fase>
 
     <!-- http://purl.bioontology.org/ontology/PMR.owl#Immediate_family -->
 
-    <owl:NamedIndividual rdf:about="&ontology;PMR.owl#Immediate_family"/>
+    <owl:NamedIndividual rdf:about="&ontology;PMR.owl#Immediate_family">
+        <name>Immediate family</name>
+        <description></description>
+        <code>e310</code>
+    </owl:NamedIndividual>
     
 
 
@@ -22905,13 +23001,21 @@ Enfriamiento</fase>
 
     <!-- http://purl.bioontology.org/ontology/PMR.owl#Muscle_power_functions -->
 
-    <owl:NamedIndividual rdf:about="&ontology;PMR.owl#Muscle_power_functions"/>
+    <owl:NamedIndividual rdf:about="&ontology;PMR.owl#Muscle_power_functions">
+        <description></description>
+        <code>b730</code>
+        <name>Muscle power functions</name>
+    </owl:NamedIndividual>
     
 
 
     <!-- http://purl.bioontology.org/ontology/PMR.owl#Muscle_tone_functions -->
 
-    <owl:NamedIndividual rdf:about="&ontology;PMR.owl#Muscle_tone_functions"/>
+    <owl:NamedIndividual rdf:about="&ontology;PMR.owl#Muscle_tone_functions">
+        <code>b735</code>
+        <name>Muscle tone functions</name>
+        <description></description>
+    </owl:NamedIndividual>
     
 
 
@@ -23581,11 +23685,16 @@ Enfriamiento</fase>
         <has_questionnaire rdf:resource="&ontology;PMR.owl#Community_integration_questionnaire"/>
         <has_questionnaire rdf:resource="&ontology;PMR.owl#Craig_Hospital_inventory_of_environmental_factors"/>
         <has_indicator rdf:resource="&ontology;PMR.owl#Defecation_functions"/>
+        <has_indicator rdf:resource="&ontology;PMR.owl#Design,_construction_and_building_products_and_technology_of_buildings_for_private_use"/>
+        <has_indicator rdf:resource="&ontology;PMR.owl#Eating"/>
         <has_indicator rdf:resource="&ontology;PMR.owl#Emotional_functions"/>
         <has_questionnaire rdf:resource="&ontology;PMR.owl#Functional_Independence_Measure"/>
         <has_indicator rdf:resource="&ontology;PMR.owl#Hand_and_arm_use"/>
         <has_indicator rdf:resource="&ontology;PMR.owl#Handling_stress_and_other_psychological_demands"/>
+        <has_indicator rdf:resource="&ontology;PMR.owl#Health_professionals"/>
+        <has_indicator rdf:resource="&ontology;PMR.owl#Health_services,_systems_and_policies"/>
         <has_questionnaire rdf:resource="&ontology;PMR.owl#Hospital_Anxiety_and_depression"/>
+        <has_indicator rdf:resource="&ontology;PMR.owl#Immediate_family"/>
         <has_questionnaire rdf:resource="&ontology;PMR.owl#Institut_Guttmann_social_scale"/>
         <has_indicator rdf:resource="&ontology;PMR.owl#Mobility_of_joint_functions"/>
         <has_indicator rdf:resource="&ontology;PMR.owl#Moving_around"/>
@@ -23593,11 +23702,19 @@ Enfriamiento</fase>
         <has_indicator rdf:resource="&ontology;PMR.owl#Muscle_power_functions"/>
         <has_indicator rdf:resource="&ontology;PMR.owl#Muscle_tone_functions"/>
         <has_questionnaire rdf:resource="&ontology;PMR.owl#Patient_health_questionnaire"/>
+        <has_indicator rdf:resource="&ontology;PMR.owl#Personal_care_providers_and_personal_assistants"/>
         <has_questionnaire rdf:resource="&ontology;PMR.owl#Personal_well_being_index"/>
+        <has_indicator rdf:resource="&ontology;PMR.owl#Products_and_technology_for_personal_indoor_and_outdoor_mobility_and_transportation"/>
+        <has_indicator rdf:resource="&ontology;PMR.owl#Products_and_technology_for_personal_use_in_daily_living"/>
         <has_indicator rdf:resource="&ontology;PMR.owl#Protective_functions_of_the_skin"/>
         <has_indicator rdf:resource="&ontology;PMR.owl#Sensation_of_pain"/>
         <has_indicator rdf:resource="&ontology;PMR.owl#Sexual_functions"/>
+        <has_indicator rdf:resource="&ontology;PMR.owl#Spinal_cord_and_related_structures"/>
         <has_questionnaire rdf:resource="&ontology;PMR.owl#Spinal_cord_injury_measure"/>
+        <has_indicator rdf:resource="&ontology;PMR.owl#Structure_of_areas_of_skin"/>
+        <has_indicator rdf:resource="&ontology;PMR.owl#Structure_of_respiratory_system"/>
+        <has_indicator rdf:resource="&ontology;PMR.owl#Structure_of_urinary_system"/>
+        <has_indicator rdf:resource="&ontology;PMR.owl#Toileting"/>
         <has_indicator rdf:resource="&ontology;PMR.owl#Transferring_oneself"/>
         <has_indicator rdf:resource="&ontology;PMR.owl#Urination_functions"/>
         <has_indicator rdf:resource="&ontology;PMR.owl#Using_transportation"/>
@@ -24085,13 +24202,27 @@ Enfriamiento</fase>
 
     <!-- http://purl.bioontology.org/ontology/PMR.owl#Products_and_technology_for_personal_indoor_and_outdoor_mobility_and_transportation -->
 
-    <owl:NamedIndividual rdf:about="&ontology;PMR.owl#Products_and_technology_for_personal_indoor_and_outdoor_mobility_and_transportation"/>
+    <owl:NamedIndividual rdf:about="&ontology;PMR.owl#Products_and_technology_for_personal_indoor_and_outdoor_mobility_and_transportation">
+        <name>Products and technology for personal indoor and outdoor mobility and transportation</name>
+        <code>e120</code>
+        <description></description>
+    </owl:NamedIndividual>
     
 
 
     <!-- http://purl.bioontology.org/ontology/PMR.owl#Products_and_technology_for_personal_use_in_daily_living -->
 
     <owl:NamedIndividual rdf:about="&ontology;PMR.owl#Products_and_technology_for_personal_use_in_daily_living"/>
+    
+
+
+    <!-- http://purl.bioontology.org/ontology/PMR.owl#Products_or_substances_for_personal_consumption -->
+
+    <owl:NamedIndividual rdf:about="&ontology;PMR.owl#Products_or_substances_for_personal_consumption">
+        <description></description>
+        <code>e110</code>
+        <name>Products or substances for personal consumption</name>
+    </owl:NamedIndividual>
     
 
 
@@ -24933,7 +25064,11 @@ Enfriamiento</fase>
 
     <!-- http://purl.bioontology.org/ontology/PMR.owl#Sensation_of_pain -->
 
-    <owl:NamedIndividual rdf:about="&ontology;PMR.owl#Sensation_of_pain"/>
+    <owl:NamedIndividual rdf:about="&ontology;PMR.owl#Sensation_of_pain">
+        <name>Sensation of pain</name>
+        <code>b280</code>
+        <description></description>
+    </owl:NamedIndividual>
     
 
 
@@ -25029,7 +25164,11 @@ Enfriamiento</fase>
 
     <!-- http://purl.bioontology.org/ontology/PMR.owl#Sexual_functions -->
 
-    <owl:NamedIndividual rdf:about="&ontology;PMR.owl#Sexual_functions"/>
+    <owl:NamedIndividual rdf:about="&ontology;PMR.owl#Sexual_functions">
+        <code>b640</code>
+        <description></description>
+        <name>Sexual functions</name>
+    </owl:NamedIndividual>
     
 
 
@@ -25138,7 +25277,11 @@ Enfriamiento</fase>
 
     <!-- http://purl.bioontology.org/ontology/PMR.owl#Social_security_services,_systems_and_policies -->
 
-    <owl:NamedIndividual rdf:about="&ontology;PMR.owl#Social_security_services,_systems_and_policies"/>
+    <owl:NamedIndividual rdf:about="&ontology;PMR.owl#Social_security_services,_systems_and_policies">
+        <description></description>
+        <code>e570</code>
+        <name>Social security services, systems and policies</name>
+    </owl:NamedIndividual>
     
 
 
@@ -25287,6 +25430,16 @@ Enfriamiento</fase>
 
     <owl:NamedIndividual rdf:about="&ontology;PMR.owl#Sphygmomanometer">
         <rdf:type rdf:resource="&ontology;PMR.owl#Sphygmomanometer"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.bioontology.org/ontology/PMR.owl#Spinal_cord_and_related_structures -->
+
+    <owl:NamedIndividual rdf:about="&ontology;PMR.owl#Spinal_cord_and_related_structures">
+        <code>s120</code>
+        <name>Spinal cord and related structures</name>
+        <description></description>
     </owl:NamedIndividual>
     
 
@@ -25499,9 +25652,43 @@ Enfriamiento</fase>
     
 
 
+    <!-- http://purl.bioontology.org/ontology/PMR.owl#Structure_of_areas_of_skin -->
+
+    <owl:NamedIndividual rdf:about="&ontology;PMR.owl#Structure_of_areas_of_skin">
+        <description></description>
+        <code>s810</code>
+        <name>Structure of areas of skin</name>
+    </owl:NamedIndividual>
+    
+
+
     <!-- http://purl.bioontology.org/ontology/PMR.owl#Structure_of_brain -->
 
-    <owl:NamedIndividual rdf:about="&ontology;PMR.owl#Structure_of_brain"/>
+    <owl:NamedIndividual rdf:about="&ontology;PMR.owl#Structure_of_brain">
+        <name>Structure of brain</name>
+        <description></description>
+        <code>s110</code>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.bioontology.org/ontology/PMR.owl#Structure_of_respiratory_system -->
+
+    <owl:NamedIndividual rdf:about="&ontology;PMR.owl#Structure_of_respiratory_system">
+        <code>s430</code>
+        <name>Structure of respiratory system</name>
+        <description></description>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.bioontology.org/ontology/PMR.owl#Structure_of_urinary_system -->
+
+    <owl:NamedIndividual rdf:about="&ontology;PMR.owl#Structure_of_urinary_system">
+        <description></description>
+        <name>Structure of urinary system</name>
+        <code>s610</code>
+    </owl:NamedIndividual>
     
 
 
@@ -25848,6 +26035,12 @@ Enfriamiento</fase>
     
 
 
+    <!-- http://purl.bioontology.org/ontology/PMR.owl#Toileting -->
+
+    <owl:NamedIndividual rdf:about="&ontology;PMR.owl#Toileting"/>
+    
+
+
     <!-- http://purl.bioontology.org/ontology/PMR.owl#Toileting,_other_specified -->
 
     <owl:NamedIndividual rdf:about="&ontology;PMR.owl#Toileting,_other_specified">
@@ -26099,7 +26292,11 @@ Enfriamiento</fase>
 
     <!-- http://purl.bioontology.org/ontology/PMR.owl#Urination_functions -->
 
-    <owl:NamedIndividual rdf:about="&ontology;PMR.owl#Urination_functions"/>
+    <owl:NamedIndividual rdf:about="&ontology;PMR.owl#Urination_functions">
+        <description></description>
+        <code>b620</code>
+        <name>Urination functions</name>
+    </owl:NamedIndividual>
     
 
 
@@ -26115,7 +26312,11 @@ Enfriamiento</fase>
 
     <!-- http://purl.bioontology.org/ontology/PMR.owl#Using_transportation -->
 
-    <owl:NamedIndividual rdf:about="&ontology;PMR.owl#Using_transportation"/>
+    <owl:NamedIndividual rdf:about="&ontology;PMR.owl#Using_transportation">
+        <description></description>
+        <name>Using transportation</name>
+        <code>d470</code>
+    </owl:NamedIndividual>
     
 
 
