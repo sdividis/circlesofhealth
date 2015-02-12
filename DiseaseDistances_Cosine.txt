@@ -1,0 +1,120 @@
+Distància Paraplejia completa amb Paraplejia incompleta: 1.0
+Distància Paraplejia completa amb Tetraplejia completa: 0.857142857142857
+Distància Paraplejia completa amb Tetraplejia incompleta: 0.857142857142857
+Distància Paraplejia completa amb Guillain-Barre: 0.5714285714285714
+Distància Paraplejia completa amb Mielomeningocele: 0.4629100498862757
+Distància Paraplejia completa amb TCE: 0.4629100498862757
+Distància Paraplejia completa amb EM: 0.6172133998483676
+Distància Paraplejia completa amb PCI: 0.7715167498104595
+Distància Paraplejia completa amb Ictus hemorràgic: 0.4629100498862757
+Distància Paraplejia completa amb Ictus isquèmic trombòtic: 0.4285714285714285
+Distància Paraplejia completa amb Ictus isquèmic embòlic: 0.4285714285714285
+Distància Paraplejia completa amb Ictus isquèmic indeterminat: 0.4285714285714285
+Distància Paraplejia completa amb Ictus isquèmic altres: 0.4285714285714285
+Distància Paraplejia completa amb Distròfia muscular: 0.5714285714285714
+Distància Paraplejia completa amb Miopaties: 0.6172133998483676
+Distància Paraplejia incompleta amb Tetraplejia completa: 0.857142857142857
+Distància Paraplejia incompleta amb Tetraplejia incompleta: 0.857142857142857
+Distància Paraplejia incompleta amb Guillain-Barre: 0.5714285714285714
+Distància Paraplejia incompleta amb Mielomeningocele: 0.4629100498862757
+Distància Paraplejia incompleta amb TCE: 0.4629100498862757
+Distància Paraplejia incompleta amb EM: 0.6172133998483676
+Distància Paraplejia incompleta amb PCI: 0.7715167498104595
+Distància Paraplejia incompleta amb Ictus hemorràgic: 0.4629100498862757
+Distància Paraplejia incompleta amb Ictus isquèmic trombòtic: 0.4285714285714285
+Distància Paraplejia incompleta amb Ictus isquèmic embòlic: 0.4285714285714285
+Distància Paraplejia incompleta amb Ictus isquèmic indeterminat: 0.4285714285714285
+Distància Paraplejia incompleta amb Ictus isquèmic altres: 0.4285714285714285
+Distància Paraplejia incompleta amb Distròfia muscular: 0.5714285714285714
+Distància Paraplejia incompleta amb Miopaties: 0.6172133998483676
+Distància Tetraplejia completa amb Tetraplejia incompleta: 1.0
+Distància Tetraplejia completa amb Guillain-Barre: 0.5714285714285714
+Distància Tetraplejia completa amb Mielomeningocele: 0.4629100498862757
+Distància Tetraplejia completa amb TCE: 0.4629100498862757
+Distància Tetraplejia completa amb EM: 0.6172133998483676
+Distància Tetraplejia completa amb PCI: 0.7715167498104595
+Distància Tetraplejia completa amb Ictus hemorràgic: 0.4629100498862757
+Distància Tetraplejia completa amb Ictus isquèmic trombòtic: 0.4285714285714285
+Distància Tetraplejia completa amb Ictus isquèmic embòlic: 0.4285714285714285
+Distància Tetraplejia completa amb Ictus isquèmic indeterminat: 0.4285714285714285
+Distància Tetraplejia completa amb Ictus isquèmic altres: 0.4285714285714285
+Distància Tetraplejia completa amb Distròfia muscular: 0.5714285714285714
+Distància Tetraplejia completa amb Miopaties: 0.6172133998483676
+Distància Tetraplejia incompleta amb Guillain-Barre: 0.5714285714285714
+Distància Tetraplejia incompleta amb Mielomeningocele: 0.4629100498862757
+Distància Tetraplejia incompleta amb TCE: 0.4629100498862757
+Distància Tetraplejia incompleta amb EM: 0.6172133998483676
+Distància Tetraplejia incompleta amb PCI: 0.7715167498104595
+Distància Tetraplejia incompleta amb Ictus hemorràgic: 0.4629100498862757
+Distància Tetraplejia incompleta amb Ictus isquèmic trombòtic: 0.4285714285714285
+Distància Tetraplejia incompleta amb Ictus isquèmic embòlic: 0.4285714285714285
+Distància Tetraplejia incompleta amb Ictus isquèmic indeterminat: 0.4285714285714285
+Distància Tetraplejia incompleta amb Ictus isquèmic altres: 0.4285714285714285
+Distància Tetraplejia incompleta amb Distròfia muscular: 0.5714285714285714
+Distància Tetraplejia incompleta amb Miopaties: 0.6172133998483676
+Distància Guillain-Barre amb Mielomeningocele: 0.4629100498862757
+Distància Guillain-Barre amb TCE: 0.4629100498862757
+Distància Guillain-Barre amb EM: 0.6172133998483676
+Distància Guillain-Barre amb PCI: 0.6172133998483676
+Distància Guillain-Barre amb Ictus hemorràgic: 0.4629100498862757
+Distància Guillain-Barre amb Ictus isquèmic trombòtic: 0.4285714285714285
+Distància Guillain-Barre amb Ictus isquèmic embòlic: 0.4285714285714285
+Distància Guillain-Barre amb Ictus isquèmic indeterminat: 0.4285714285714285
+Distància Guillain-Barre amb Ictus isquèmic altres: 0.4285714285714285
+Distància Guillain-Barre amb Distròfia muscular: 0.5714285714285714
+Distància Guillain-Barre amb Miopaties: 0.6172133998483676
+Distància Mielomeningocele amb TCE: 0.5000000000000001
+Distància Mielomeningocele amb EM: 0.5000000000000001
+Distància Mielomeningocele amb PCI: 0.5000000000000001
+Distància Mielomeningocele amb Ictus hemorràgic: 0.5000000000000001
+Distància Mielomeningocele amb Ictus isquèmic trombòtic: 0.4629100498862757
+Distància Mielomeningocele amb Ictus isquèmic embòlic: 0.4629100498862757
+Distància Mielomeningocele amb Ictus isquèmic indeterminat: 0.4629100498862757
+Distància Mielomeningocele amb Ictus isquèmic altres: 0.4629100498862757
+Distància Mielomeningocele amb Distròfia muscular: 0.4629100498862757
+Distància Mielomeningocele amb Miopaties: 0.5000000000000001
+Distància TCE amb EM: 0.5000000000000001
+Distància TCE amb PCI: 0.5000000000000001
+Distància TCE amb Ictus hemorràgic: 0.5000000000000001
+Distància TCE amb Ictus isquèmic trombòtic: 0.4629100498862757
+Distància TCE amb Ictus isquèmic embòlic: 0.4629100498862757
+Distància TCE amb Ictus isquèmic indeterminat: 0.4629100498862757
+Distància TCE amb Ictus isquèmic altres: 0.4629100498862757
+Distància TCE amb Distròfia muscular: 0.4629100498862757
+Distància TCE amb Miopaties: 0.5000000000000001
+Distància EM amb PCI: 0.6666666666666667
+Distància EM amb Ictus hemorràgic: 0.5000000000000001
+Distància EM amb Ictus isquèmic trombòtic: 0.4629100498862757
+Distància EM amb Ictus isquèmic embòlic: 0.4629100498862757
+Distància EM amb Ictus isquèmic indeterminat: 0.4629100498862757
+Distància EM amb Ictus isquèmic altres: 0.4629100498862757
+Distància EM amb Distròfia muscular: 0.6172133998483676
+Distància EM amb Miopaties: 0.6666666666666667
+Distància PCI amb Ictus hemorràgic: 0.5000000000000001
+Distància PCI amb Ictus isquèmic trombòtic: 0.4629100498862757
+Distància PCI amb Ictus isquèmic embòlic: 0.4629100498862757
+Distància PCI amb Ictus isquèmic indeterminat: 0.4629100498862757
+Distància PCI amb Ictus isquèmic altres: 0.4629100498862757
+Distància PCI amb Distròfia muscular: 0.6172133998483676
+Distància PCI amb Miopaties: 0.6666666666666667
+Distància Ictus hemorràgic amb Ictus isquèmic trombòtic: 0.7715167498104595
+Distància Ictus hemorràgic amb Ictus isquèmic embòlic: 0.7715167498104595
+Distància Ictus hemorràgic amb Ictus isquèmic indeterminat: 0.7715167498104595
+Distància Ictus hemorràgic amb Ictus isquèmic altres: 0.7715167498104595
+Distància Ictus hemorràgic amb Distròfia muscular: 0.4629100498862757
+Distància Ictus hemorràgic amb Miopaties: 0.5000000000000001
+Distància Ictus isquèmic trombòtic amb Ictus isquèmic embòlic: 0.857142857142857
+Distància Ictus isquèmic trombòtic amb Ictus isquèmic indeterminat: 0.857142857142857
+Distància Ictus isquèmic trombòtic amb Ictus isquèmic altres: 0.857142857142857
+Distància Ictus isquèmic trombòtic amb Distròfia muscular: 0.4285714285714285
+Distància Ictus isquèmic trombòtic amb Miopaties: 0.4629100498862757
+Distància Ictus isquèmic embòlic amb Ictus isquèmic indeterminat: 0.857142857142857
+Distància Ictus isquèmic embòlic amb Ictus isquèmic altres: 0.857142857142857
+Distància Ictus isquèmic embòlic amb Distròfia muscular: 0.4285714285714285
+Distància Ictus isquèmic embòlic amb Miopaties: 0.4629100498862757
+Distància Ictus isquèmic indeterminat amb Ictus isquèmic altres: 0.857142857142857
+Distància Ictus isquèmic indeterminat amb Distròfia muscular: 0.4285714285714285
+Distància Ictus isquèmic indeterminat amb Miopaties: 0.4629100498862757
+Distància Ictus isquèmic altres amb Distròfia muscular: 0.4285714285714285
+Distància Ictus isquèmic altres amb Miopaties: 0.4629100498862757
+Distància Distròfia muscular amb Miopaties: 0.9258200997725514
