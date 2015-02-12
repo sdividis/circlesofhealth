@@ -1,120 +1,120 @@
-Dist‡ncia Paraplejia completa amb Paraplejia incompleta: 1.0
-Dist‡ncia Paraplejia completa amb Tetraplejia completa: 0.857142857142857
-Dist‡ncia Paraplejia completa amb Tetraplejia incompleta: 0.857142857142857
-Dist‡ncia Paraplejia completa amb Guillain-Barre: 0.5714285714285714
-Dist‡ncia Paraplejia completa amb Mielomeningocele: 0.4629100498862757
-Dist‡ncia Paraplejia completa amb TCE: 0.4629100498862757
-Dist‡ncia Paraplejia completa amb EM: 0.6172133998483676
-Dist‡ncia Paraplejia completa amb PCI: 0.7715167498104595
-Dist‡ncia Paraplejia completa amb Ictus hemorr‡gic: 0.4629100498862757
-Dist‡ncia Paraplejia completa amb Ictus isquËmic trombÚtic: 0.4285714285714285
-Dist‡ncia Paraplejia completa amb Ictus isquËmic embÚlic: 0.4285714285714285
-Dist‡ncia Paraplejia completa amb Ictus isquËmic indeterminat: 0.4285714285714285
-Dist‡ncia Paraplejia completa amb Ictus isquËmic altres: 0.4285714285714285
-Dist‡ncia Paraplejia completa amb DistrÚfia muscular: 0.5714285714285714
-Dist‡ncia Paraplejia completa amb Miopaties: 0.6172133998483676
-Dist‡ncia Paraplejia incompleta amb Tetraplejia completa: 0.857142857142857
-Dist‡ncia Paraplejia incompleta amb Tetraplejia incompleta: 0.857142857142857
-Dist‡ncia Paraplejia incompleta amb Guillain-Barre: 0.5714285714285714
-Dist‡ncia Paraplejia incompleta amb Mielomeningocele: 0.4629100498862757
-Dist‡ncia Paraplejia incompleta amb TCE: 0.4629100498862757
-Dist‡ncia Paraplejia incompleta amb EM: 0.6172133998483676
-Dist‡ncia Paraplejia incompleta amb PCI: 0.7715167498104595
-Dist‡ncia Paraplejia incompleta amb Ictus hemorr‡gic: 0.4629100498862757
-Dist‡ncia Paraplejia incompleta amb Ictus isquËmic trombÚtic: 0.4285714285714285
-Dist‡ncia Paraplejia incompleta amb Ictus isquËmic embÚlic: 0.4285714285714285
-Dist‡ncia Paraplejia incompleta amb Ictus isquËmic indeterminat: 0.4285714285714285
-Dist‡ncia Paraplejia incompleta amb Ictus isquËmic altres: 0.4285714285714285
-Dist‡ncia Paraplejia incompleta amb DistrÚfia muscular: 0.5714285714285714
-Dist‡ncia Paraplejia incompleta amb Miopaties: 0.6172133998483676
-Dist‡ncia Tetraplejia completa amb Tetraplejia incompleta: 1.0
-Dist‡ncia Tetraplejia completa amb Guillain-Barre: 0.5714285714285714
-Dist‡ncia Tetraplejia completa amb Mielomeningocele: 0.4629100498862757
-Dist‡ncia Tetraplejia completa amb TCE: 0.4629100498862757
-Dist‡ncia Tetraplejia completa amb EM: 0.6172133998483676
-Dist‡ncia Tetraplejia completa amb PCI: 0.7715167498104595
-Dist‡ncia Tetraplejia completa amb Ictus hemorr‡gic: 0.4629100498862757
-Dist‡ncia Tetraplejia completa amb Ictus isquËmic trombÚtic: 0.4285714285714285
-Dist‡ncia Tetraplejia completa amb Ictus isquËmic embÚlic: 0.4285714285714285
-Dist‡ncia Tetraplejia completa amb Ictus isquËmic indeterminat: 0.4285714285714285
-Dist‡ncia Tetraplejia completa amb Ictus isquËmic altres: 0.4285714285714285
-Dist‡ncia Tetraplejia completa amb DistrÚfia muscular: 0.5714285714285714
-Dist‡ncia Tetraplejia completa amb Miopaties: 0.6172133998483676
-Dist‡ncia Tetraplejia incompleta amb Guillain-Barre: 0.5714285714285714
-Dist‡ncia Tetraplejia incompleta amb Mielomeningocele: 0.4629100498862757
-Dist‡ncia Tetraplejia incompleta amb TCE: 0.4629100498862757
-Dist‡ncia Tetraplejia incompleta amb EM: 0.6172133998483676
-Dist‡ncia Tetraplejia incompleta amb PCI: 0.7715167498104595
-Dist‡ncia Tetraplejia incompleta amb Ictus hemorr‡gic: 0.4629100498862757
-Dist‡ncia Tetraplejia incompleta amb Ictus isquËmic trombÚtic: 0.4285714285714285
-Dist‡ncia Tetraplejia incompleta amb Ictus isquËmic embÚlic: 0.4285714285714285
-Dist‡ncia Tetraplejia incompleta amb Ictus isquËmic indeterminat: 0.4285714285714285
-Dist‡ncia Tetraplejia incompleta amb Ictus isquËmic altres: 0.4285714285714285
-Dist‡ncia Tetraplejia incompleta amb DistrÚfia muscular: 0.5714285714285714
-Dist‡ncia Tetraplejia incompleta amb Miopaties: 0.6172133998483676
-Dist‡ncia Guillain-Barre amb Mielomeningocele: 0.4629100498862757
-Dist‡ncia Guillain-Barre amb TCE: 0.4629100498862757
-Dist‡ncia Guillain-Barre amb EM: 0.6172133998483676
-Dist‡ncia Guillain-Barre amb PCI: 0.6172133998483676
-Dist‡ncia Guillain-Barre amb Ictus hemorr‡gic: 0.4629100498862757
-Dist‡ncia Guillain-Barre amb Ictus isquËmic trombÚtic: 0.4285714285714285
-Dist‡ncia Guillain-Barre amb Ictus isquËmic embÚlic: 0.4285714285714285
-Dist‡ncia Guillain-Barre amb Ictus isquËmic indeterminat: 0.4285714285714285
-Dist‡ncia Guillain-Barre amb Ictus isquËmic altres: 0.4285714285714285
-Dist‡ncia Guillain-Barre amb DistrÚfia muscular: 0.5714285714285714
-Dist‡ncia Guillain-Barre amb Miopaties: 0.6172133998483676
-Dist‡ncia Mielomeningocele amb TCE: 0.5000000000000001
-Dist‡ncia Mielomeningocele amb EM: 0.5000000000000001
-Dist‡ncia Mielomeningocele amb PCI: 0.5000000000000001
-Dist‡ncia Mielomeningocele amb Ictus hemorr‡gic: 0.5000000000000001
-Dist‡ncia Mielomeningocele amb Ictus isquËmic trombÚtic: 0.4629100498862757
-Dist‡ncia Mielomeningocele amb Ictus isquËmic embÚlic: 0.4629100498862757
-Dist‡ncia Mielomeningocele amb Ictus isquËmic indeterminat: 0.4629100498862757
-Dist‡ncia Mielomeningocele amb Ictus isquËmic altres: 0.4629100498862757
-Dist‡ncia Mielomeningocele amb DistrÚfia muscular: 0.4629100498862757
-Dist‡ncia Mielomeningocele amb Miopaties: 0.5000000000000001
-Dist‡ncia TCE amb EM: 0.5000000000000001
-Dist‡ncia TCE amb PCI: 0.5000000000000001
-Dist‡ncia TCE amb Ictus hemorr‡gic: 0.5000000000000001
-Dist‡ncia TCE amb Ictus isquËmic trombÚtic: 0.4629100498862757
-Dist‡ncia TCE amb Ictus isquËmic embÚlic: 0.4629100498862757
-Dist‡ncia TCE amb Ictus isquËmic indeterminat: 0.4629100498862757
-Dist‡ncia TCE amb Ictus isquËmic altres: 0.4629100498862757
-Dist‡ncia TCE amb DistrÚfia muscular: 0.4629100498862757
-Dist‡ncia TCE amb Miopaties: 0.5000000000000001
-Dist‡ncia EM amb PCI: 0.6666666666666667
-Dist‡ncia EM amb Ictus hemorr‡gic: 0.5000000000000001
-Dist‡ncia EM amb Ictus isquËmic trombÚtic: 0.4629100498862757
-Dist‡ncia EM amb Ictus isquËmic embÚlic: 0.4629100498862757
-Dist‡ncia EM amb Ictus isquËmic indeterminat: 0.4629100498862757
-Dist‡ncia EM amb Ictus isquËmic altres: 0.4629100498862757
-Dist‡ncia EM amb DistrÚfia muscular: 0.6172133998483676
-Dist‡ncia EM amb Miopaties: 0.6666666666666667
-Dist‡ncia PCI amb Ictus hemorr‡gic: 0.5000000000000001
-Dist‡ncia PCI amb Ictus isquËmic trombÚtic: 0.4629100498862757
-Dist‡ncia PCI amb Ictus isquËmic embÚlic: 0.4629100498862757
-Dist‡ncia PCI amb Ictus isquËmic indeterminat: 0.4629100498862757
-Dist‡ncia PCI amb Ictus isquËmic altres: 0.4629100498862757
-Dist‡ncia PCI amb DistrÚfia muscular: 0.6172133998483676
-Dist‡ncia PCI amb Miopaties: 0.6666666666666667
-Dist‡ncia Ictus hemorr‡gic amb Ictus isquËmic trombÚtic: 0.7715167498104595
-Dist‡ncia Ictus hemorr‡gic amb Ictus isquËmic embÚlic: 0.7715167498104595
-Dist‡ncia Ictus hemorr‡gic amb Ictus isquËmic indeterminat: 0.7715167498104595
-Dist‡ncia Ictus hemorr‡gic amb Ictus isquËmic altres: 0.7715167498104595
-Dist‡ncia Ictus hemorr‡gic amb DistrÚfia muscular: 0.4629100498862757
-Dist‡ncia Ictus hemorr‡gic amb Miopaties: 0.5000000000000001
-Dist‡ncia Ictus isquËmic trombÚtic amb Ictus isquËmic embÚlic: 0.857142857142857
-Dist‡ncia Ictus isquËmic trombÚtic amb Ictus isquËmic indeterminat: 0.857142857142857
-Dist‡ncia Ictus isquËmic trombÚtic amb Ictus isquËmic altres: 0.857142857142857
-Dist‡ncia Ictus isquËmic trombÚtic amb DistrÚfia muscular: 0.4285714285714285
-Dist‡ncia Ictus isquËmic trombÚtic amb Miopaties: 0.4629100498862757
-Dist‡ncia Ictus isquËmic embÚlic amb Ictus isquËmic indeterminat: 0.857142857142857
-Dist‡ncia Ictus isquËmic embÚlic amb Ictus isquËmic altres: 0.857142857142857
-Dist‡ncia Ictus isquËmic embÚlic amb DistrÚfia muscular: 0.4285714285714285
-Dist‡ncia Ictus isquËmic embÚlic amb Miopaties: 0.4629100498862757
-Dist‡ncia Ictus isquËmic indeterminat amb Ictus isquËmic altres: 0.857142857142857
-Dist‡ncia Ictus isquËmic indeterminat amb DistrÚfia muscular: 0.4285714285714285
-Dist‡ncia Ictus isquËmic indeterminat amb Miopaties: 0.4629100498862757
-Dist‡ncia Ictus isquËmic altres amb DistrÚfia muscular: 0.4285714285714285
-Dist‡ncia Ictus isquËmic altres amb Miopaties: 0.4629100498862757
-Dist‡ncia DistrÚfia muscular amb Miopaties: 0.9258200997725514
+Dist√†ncia Paraplegia completa amb Paraplegia incompleta: 1.0
+Dist√†ncia Paraplegia completa amb Tetraplegia completa: 0.857142857142857
+Dist√†ncia Paraplegia completa amb Tetraplegia incompleta: 0.857142857142857
+Dist√†ncia Paraplegia completa amb Guillain-Barre: 0.5714285714285714
+Dist√†ncia Paraplegia completa amb Mielomeningocele: 0.4629100498862757
+Dist√†ncia Paraplegia completa amb TCE: 0.4629100498862757
+Dist√†ncia Paraplegia completa amb EM: 0.6172133998483676
+Dist√†ncia Paraplegia completa amb PCI: 0.7715167498104595
+Dist√†ncia Paraplegia completa amb Ictus hemorr√†gic: 0.4629100498862757
+Dist√†ncia Paraplegia completa amb Ictus isqu√®mic tromb√≤tic: 0.4285714285714285
+Dist√†ncia Paraplegia completa amb Ictus isqu√®mic emb√≤lic: 0.4285714285714285
+Dist√†ncia Paraplegia completa amb Ictus isqu√®mic indeterminat: 0.4285714285714285
+Dist√†ncia Paraplegia completa amb Ictus isqu√®mic altres: 0.4285714285714285
+Dist√†ncia Paraplegia completa amb Distr√≤fia muscular: 0.5714285714285714
+Dist√†ncia Paraplegia completa amb Miopaties: 0.6172133998483676
+Dist√†ncia Paraplegia incompleta amb Tetraplegia completa: 0.857142857142857
+Dist√†ncia Paraplegia incompleta amb Tetraplegia incompleta: 0.857142857142857
+Dist√†ncia Paraplegia incompleta amb Guillain-Barre: 0.5714285714285714
+Dist√†ncia Paraplegia incompleta amb Mielomeningocele: 0.4629100498862757
+Dist√†ncia Paraplegia incompleta amb TCE: 0.4629100498862757
+Dist√†ncia Paraplegia incompleta amb EM: 0.6172133998483676
+Dist√†ncia Paraplegia incompleta amb PCI: 0.7715167498104595
+Dist√†ncia Paraplegia incompleta amb Ictus hemorr√†gic: 0.4629100498862757
+Dist√†ncia Paraplegia incompleta amb Ictus isqu√®mic tromb√≤tic: 0.4285714285714285
+Dist√†ncia Paraplegia incompleta amb Ictus isqu√®mic emb√≤lic: 0.4285714285714285
+Dist√†ncia Paraplegia incompleta amb Ictus isqu√®mic indeterminat: 0.4285714285714285
+Dist√†ncia Paraplegia incompleta amb Ictus isqu√®mic altres: 0.4285714285714285
+Dist√†ncia Paraplegia incompleta amb Distr√≤fia muscular: 0.5714285714285714
+Dist√†ncia Paraplegia incompleta amb Miopaties: 0.6172133998483676
+Dist√†ncia Tetraplegia completa amb Tetraplegia incompleta: 1.0
+Dist√†ncia Tetraplegia completa amb Guillain-Barre: 0.5714285714285714
+Dist√†ncia Tetraplegia completa amb Mielomeningocele: 0.4629100498862757
+Dist√†ncia Tetraplegia completa amb TCE: 0.4629100498862757
+Dist√†ncia Tetraplegia completa amb EM: 0.6172133998483676
+Dist√†ncia Tetraplegia completa amb PCI: 0.7715167498104595
+Dist√†ncia Tetraplegia completa amb Ictus hemorr√†gic: 0.4629100498862757
+Dist√†ncia Tetraplegia completa amb Ictus isqu√®mic tromb√≤tic: 0.4285714285714285
+Dist√†ncia Tetraplegia completa amb Ictus isqu√®mic emb√≤lic: 0.4285714285714285
+Dist√†ncia Tetraplegia completa amb Ictus isqu√®mic indeterminat: 0.4285714285714285
+Dist√†ncia Tetraplegia completa amb Ictus isqu√®mic altres: 0.4285714285714285
+Dist√†ncia Tetraplegia completa amb Distr√≤fia muscular: 0.5714285714285714
+Dist√†ncia Tetraplegia completa amb Miopaties: 0.6172133998483676
+Dist√†ncia Tetraplegia incompleta amb Guillain-Barre: 0.5714285714285714
+Dist√†ncia Tetraplegia incompleta amb Mielomeningocele: 0.4629100498862757
+Dist√†ncia Tetraplegia incompleta amb TCE: 0.4629100498862757
+Dist√†ncia Tetraplegia incompleta amb EM: 0.6172133998483676
+Dist√†ncia Tetraplegia incompleta amb PCI: 0.7715167498104595
+Dist√†ncia Tetraplegia incompleta amb Ictus hemorr√†gic: 0.4629100498862757
+Dist√†ncia Tetraplegia incompleta amb Ictus isqu√®mic tromb√≤tic: 0.4285714285714285
+Dist√†ncia Tetraplegia incompleta amb Ictus isqu√®mic emb√≤lic: 0.4285714285714285
+Dist√†ncia Tetraplegia incompleta amb Ictus isqu√®mic indeterminat: 0.4285714285714285
+Dist√†ncia Tetraplegia incompleta amb Ictus isqu√®mic altres: 0.4285714285714285
+Dist√†ncia Tetraplegia incompleta amb Distr√≤fia muscular: 0.5714285714285714
+Dist√†ncia Tetraplegia incompleta amb Miopaties: 0.6172133998483676
+Dist√†ncia Guillain-Barre amb Mielomeningocele: 0.4629100498862757
+Dist√†ncia Guillain-Barre amb TCE: 0.4629100498862757
+Dist√†ncia Guillain-Barre amb EM: 0.6172133998483676
+Dist√†ncia Guillain-Barre amb PCI: 0.6172133998483676
+Dist√†ncia Guillain-Barre amb Ictus hemorr√†gic: 0.4629100498862757
+Dist√†ncia Guillain-Barre amb Ictus isqu√®mic tromb√≤tic: 0.4285714285714285
+Dist√†ncia Guillain-Barre amb Ictus isqu√®mic emb√≤lic: 0.4285714285714285
+Dist√†ncia Guillain-Barre amb Ictus isqu√®mic indeterminat: 0.4285714285714285
+Dist√†ncia Guillain-Barre amb Ictus isqu√®mic altres: 0.4285714285714285
+Dist√†ncia Guillain-Barre amb Distr√≤fia muscular: 0.5714285714285714
+Dist√†ncia Guillain-Barre amb Miopaties: 0.6172133998483676
+Dist√†ncia Mielomeningocele amb TCE: 0.5000000000000001
+Dist√†ncia Mielomeningocele amb EM: 0.5000000000000001
+Dist√†ncia Mielomeningocele amb PCI: 0.5000000000000001
+Dist√†ncia Mielomeningocele amb Ictus hemorr√†gic: 0.5000000000000001
+Dist√†ncia Mielomeningocele amb Ictus isqu√®mic tromb√≤tic: 0.4629100498862757
+Dist√†ncia Mielomeningocele amb Ictus isqu√®mic emb√≤lic: 0.4629100498862757
+Dist√†ncia Mielomeningocele amb Ictus isqu√®mic indeterminat: 0.4629100498862757
+Dist√†ncia Mielomeningocele amb Ictus isqu√®mic altres: 0.4629100498862757
+Dist√†ncia Mielomeningocele amb Distr√≤fia muscular: 0.4629100498862757
+Dist√†ncia Mielomeningocele amb Miopaties: 0.5000000000000001
+Dist√†ncia TCE amb EM: 0.5000000000000001
+Dist√†ncia TCE amb PCI: 0.5000000000000001
+Dist√†ncia TCE amb Ictus hemorr√†gic: 0.5000000000000001
+Dist√†ncia TCE amb Ictus isqu√®mic tromb√≤tic: 0.4629100498862757
+Dist√†ncia TCE amb Ictus isqu√®mic emb√≤lic: 0.4629100498862757
+Dist√†ncia TCE amb Ictus isqu√®mic indeterminat: 0.4629100498862757
+Dist√†ncia TCE amb Ictus isqu√®mic altres: 0.4629100498862757
+Dist√†ncia TCE amb Distr√≤fia muscular: 0.4629100498862757
+Dist√†ncia TCE amb Miopaties: 0.5000000000000001
+Dist√†ncia EM amb PCI: 0.6666666666666667
+Dist√†ncia EM amb Ictus hemorr√†gic: 0.5000000000000001
+Dist√†ncia EM amb Ictus isqu√®mic tromb√≤tic: 0.4629100498862757
+Dist√†ncia EM amb Ictus isqu√®mic emb√≤lic: 0.4629100498862757
+Dist√†ncia EM amb Ictus isqu√®mic indeterminat: 0.4629100498862757
+Dist√†ncia EM amb Ictus isqu√®mic altres: 0.4629100498862757
+Dist√†ncia EM amb Distr√≤fia muscular: 0.6172133998483676
+Dist√†ncia EM amb Miopaties: 0.6666666666666667
+Dist√†ncia PCI amb Ictus hemorr√†gic: 0.5000000000000001
+Dist√†ncia PCI amb Ictus isqu√®mic tromb√≤tic: 0.4629100498862757
+Dist√†ncia PCI amb Ictus isqu√®mic emb√≤lic: 0.4629100498862757
+Dist√†ncia PCI amb Ictus isqu√®mic indeterminat: 0.4629100498862757
+Dist√†ncia PCI amb Ictus isqu√®mic altres: 0.4629100498862757
+Dist√†ncia PCI amb Distr√≤fia muscular: 0.6172133998483676
+Dist√†ncia PCI amb Miopaties: 0.6666666666666667
+Dist√†ncia Ictus hemorr√†gic amb Ictus isqu√®mic tromb√≤tic: 0.7715167498104595
+Dist√†ncia Ictus hemorr√†gic amb Ictus isqu√®mic emb√≤lic: 0.7715167498104595
+Dist√†ncia Ictus hemorr√†gic amb Ictus isqu√®mic indeterminat: 0.7715167498104595
+Dist√†ncia Ictus hemorr√†gic amb Ictus isqu√®mic altres: 0.7715167498104595
+Dist√†ncia Ictus hemorr√†gic amb Distr√≤fia muscular: 0.4629100498862757
+Dist√†ncia Ictus hemorr√†gic amb Miopaties: 0.5000000000000001
+Dist√†ncia Ictus isqu√®mic tromb√≤tic amb Ictus isqu√®mic emb√≤lic: 0.857142857142857
+Dist√†ncia Ictus isqu√®mic tromb√≤tic amb Ictus isqu√®mic indeterminat: 0.857142857142857
+Dist√†ncia Ictus isqu√®mic tromb√≤tic amb Ictus isqu√®mic altres: 0.857142857142857
+Dist√†ncia Ictus isqu√®mic tromb√≤tic amb Distr√≤fia muscular: 0.4285714285714285
+Dist√†ncia Ictus isqu√®mic tromb√≤tic amb Miopaties: 0.4629100498862757
+Dist√†ncia Ictus isqu√®mic emb√≤lic amb Ictus isqu√®mic indeterminat: 0.857142857142857
+Dist√†ncia Ictus isqu√®mic emb√≤lic amb Ictus isqu√®mic altres: 0.857142857142857
+Dist√†ncia Ictus isqu√®mic emb√≤lic amb Distr√≤fia muscular: 0.4285714285714285
+Dist√†ncia Ictus isqu√®mic emb√≤lic amb Miopaties: 0.4629100498862757
+Dist√†ncia Ictus isqu√®mic indeterminat amb Ictus isqu√®mic altres: 0.857142857142857
+Dist√†ncia Ictus isqu√®mic indeterminat amb Distr√≤fia muscular: 0.4285714285714285
+Dist√†ncia Ictus isqu√®mic indeterminat amb Miopaties: 0.4629100498862757
+Dist√†ncia Ictus isqu√®mic altres amb Distr√≤fia muscular: 0.4285714285714285
+Dist√†ncia Ictus isqu√®mic altres amb Miopaties: 0.4629100498862757
+Dist√†ncia Distr√≤fia muscular amb Miopaties: 0.9258200997725514
